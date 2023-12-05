@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654269606 source:c:\users\aluno\documents\aula\jogo batalha naval\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1655753011 source:c:\users\vivia\desktop\graduação\2022 - 1ºperíodo\laboratório de programação\jogo batalha naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
